@@ -3,7 +3,11 @@
     font-weight: bold;
     color: white;
     padding-left: 20px;
+    height: 400px;
+    width: 400px;
     border-color: aquamarine;
     border-style: double;
     border-style: dotted;
+    cursor: pointer;
+
 }
