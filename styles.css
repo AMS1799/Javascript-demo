@@ -1,0 +1,9 @@
+.box {
+    background-color: blueviolet;
+    font-weight: bold;
+    color: white;
+    padding-left: 20px;
+    border-color: aquamarine;
+    border-style: double;
+    border-style: dotted;
+}
